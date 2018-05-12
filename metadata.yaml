@@ -1,0 +1,31 @@
+_repo: The-Life-and-Adventures-of-Bruce-the-African-Traveller_39615
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Head, Francis Bond, Sir
+    aliases:
+    - Head, F. B. (Francis Bond), Sir
+    - Head, Francis Bond, Sir, bart.
+    birthdate: 1793
+    deathdate: 1875
+    gutenberg_agent_id: '40112'
+    url: http://www.gutenberg.org/2009/agents/40112
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2012-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39615'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bruce, James, 1730-1794'
+- !lcsh 'Ethiopia -- Description and travel'
+- !lcc 'DT'
+title: The Life and Adventures of Bruce, the African Traveller
+url: http://www.gutenberg.org/ebooks/39615

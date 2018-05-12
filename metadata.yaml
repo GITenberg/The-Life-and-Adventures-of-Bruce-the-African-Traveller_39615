@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '40112'
     url: http://www.gutenberg.org/2009/agents/40112
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39615#The-Life-and-Adventures-of-Bruce-the-African-Traveller
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2012-05-04'
 gutenberg_type: Text
